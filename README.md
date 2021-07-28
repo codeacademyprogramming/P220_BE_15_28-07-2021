@@ -1,1 +1,6 @@
-# P220_BE_15_28-07-2021
+# ASP core Identity, many to many relational CRUD
+
+
+#Tapsiriq
+ - Derde etdiklerimizin eynisi
+ - Book delete
